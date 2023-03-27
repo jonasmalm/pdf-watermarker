@@ -6,7 +6,7 @@ Currently adds a red one-line text at the right top corner to all pages.
 ## Usage
 Place the file you want to watermark in the same folder as the script, install the requirements and run the script via:
 ```
-python watermark.py [Watermark text] [filename]
+python watermark.py watermark-text filename
 ```
 
 Example usage:
